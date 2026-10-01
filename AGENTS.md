@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- PDF plans are rendered client-side with PDF.js; viewport interaction uses cursor-anchored wheel zoom and scroll-based panning to keep annotations in normalized page coordinates.
